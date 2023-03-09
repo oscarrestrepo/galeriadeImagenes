@@ -1,0 +1,24 @@
+/*se utiliza flexbox para mostrar las imágenes en una cuadrícula. Además, se utiliza una transición y un efecto de escala en las imágenes cuando el usuario coloca el cursor sobre ellas */
+.gallery {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.gallery img {
+	width: 200px;
+	height: 200px;
+	margin: 10px;
+	transition: all 0.3s ease-in-out;
+	cursor: pointer;
+}
+
+.gallery img:hover {
+	transform: scale(1.2);
+}
+
+
+
+
+
