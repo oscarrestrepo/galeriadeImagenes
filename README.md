@@ -4,3 +4,4 @@ Mi profesion es la de abogado y me he interesado por aprender programacion y sis
 Como todo en la vida es importante mediante la practica ir creando un portafolio que muestre los avances de lo aprendido.
 Un agradecimiento a la gente de platzi por que mediante sus curso he ido adquiriendo conocimiento en esta area y motivacion para avanzar.
 Es hora de ir implementando proyectos sencillos para luchar contra el sindrome del impostor y no solo tomando cursos.
+Adicionalmente en mi proceso de aprendizaje estoy usando Herramientas de Inteligencia artificial.
