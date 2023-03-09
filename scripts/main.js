@@ -7,8 +7,8 @@ function handleClick() {
 
 images.forEach(image => image.addEventListener('click', handleClick));
 
-function f1(){
+function cargarScript(){
     console.log("Funcion cargada al inicio");
 }
  
-window.onload = f1;
+window.onload = cargarScript;
